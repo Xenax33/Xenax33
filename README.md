@@ -27,7 +27,7 @@ A large scale multi tenant e-commerce platform spanning multiple Rails monoliths
 A multi-tenant warehouse management SaaS migrating its legacy Angular/Rails frontend to React Native for cross-platform support. I worked on the Ruby on Rails backend, implementing the Scan to Cart workflow end-to-end, eliminating N+1 queries, and introducing Redis caching across high-traffic routes.
 `Rails` · `React Native` · `MySQL` · `Redis`
 
-**[Manaiger](https://github.com/Xenax33)**
+**[Manaiger]**
 A contract risk analysis SaaS LLM-powered clause extraction across four risk domains, async background processing, OCR fallback, and PDF report generation. Built end-to-end, solo.
 `Rails` · `GPT-4o` · `Sidekiq` · `AWS`
 
