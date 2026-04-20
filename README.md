@@ -3,11 +3,11 @@
 
 ---
 
-> *I've had the rare privilege of working inside both worlds — legacy Rails monoliths that quietly power millions of transactions, and modern microservice architectures chasing the next abstraction.*
+> *I've had the rare privilege of working inside both worlds, legacy Rails monoliths that quietly power millions of transactions, and modern microservice architectures chasing the next abstraction.*
 >
-> *It teaches you humility. The old systems aren't broken — they're just misunderstood. And the new ones aren't solutions — they're bets.*
+> *It teaches you humility. The old systems aren't broken — they're just misunderstood. And the new ones aren't solutions, they're bets.*
 >
-> *I try to find my place in this orchestration of technological change. Not chasing hype, not dismissing it either. Just building things that hold — whether they're five years old or five days old.*
+> *I try to find my place in this orchestration of technological change. Not chasing hype, not dismissing it either. Just building things that hold, whether they're five years old or five days old.*
 
 ---
 
